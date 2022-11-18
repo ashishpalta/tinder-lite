@@ -1,0 +1,13 @@
+body{
+    background-color: #f25659;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.container {
+   
+   margin-left:100px;
+   transition: all ease 0.2s;
+}
